@@ -1,9 +1,14 @@
-# Link report: 2026-09-17
+# Link report: 2026-09-24
 
 * Checked: **144**
-* Alive: **144**
-* Dead found: **0**
+* Alive: **143**
+* Dead found: **1**
 * Repaired: **0**
-* Unresolved: **0**
+* Unresolved: **1**
 
-All links healthy. No action needed.
+## Details
+
+### L291: AI Engineer
+* Old: `https://www.aicamp.so/`
+* Status: `unresolved`
+* Notes: No Groq suggestion (HTTP Error 522: <none>)
